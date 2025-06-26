@@ -23,5 +23,21 @@ A fully automated script tailored for the Pharos Testnet, capable of performing 
    ```bash
    git clone https://github.com/yourusername/Bot-Pharos.git
    cd Bot-Pharos
-3. Install Dependencies:
-   `npm install`
+2. Install Dependencies:
+   ```bash
+   npm install
+3. Create .env (example)
+   ```dotenv
+   PRIVATE_KEY_1=your_first_private_key
+   PRIVATE_KEY_2=your_second_private_key
+4. (Optional) Add proxy entries to proxies.txt
+   ```perl
+   http://user:pass@ip:port
+   socks5://user:pass@ip:port
+
+## How To Use🚀
+- run the bot with:
+```bash
+node index.js
+
+
