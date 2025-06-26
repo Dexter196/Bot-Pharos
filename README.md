@@ -15,16 +15,12 @@ A fully automated script tailored for the Pharos Testnet, capable of performing 
 
 - Node.js (version 18+ recommended)
 - npm or yarn installed
-- `.env` file with your private key(s) set as:
-- PRIVATE_KEY_1=YOUR_RIVATE_KEY
-- PRIVATE_KEY_2=YOUR_PRIVATE_KEY
-- etc...
 - (Optional) A `proxies.txt` file with proxies listed one per line
 
 ## Setup & Installation 🔧
 
 1. Clone this repository:
-   `git clone https://github.com/yourusername/Bot-Pharos.git
-   cd Bot-Pharos`
+   git clone https://github.com/yourusername/Bot-Pharos.git
+   cd Bot-Pharos
 2. Install Dependencies:
    `npm install`
