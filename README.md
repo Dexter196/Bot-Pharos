@@ -1,4 +1,4 @@
-# Bot Pharos – Testnet Utility
+# Bot Pharos - Daily Bot
 
 A fully automated script tailored for the Pharos Testnet, capable of performing token swaps, PHRS transfers, faucet claims, and daily check-ins.
 
