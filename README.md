@@ -20,7 +20,8 @@ A fully automated script tailored for the Pharos Testnet, capable of performing 
 ## Setup & Installation 🔧
 
 1. Clone this repository:
+   ```bash
    git clone https://github.com/yourusername/Bot-Pharos.git
    cd Bot-Pharos
-2. Install Dependencies:
+3. Install Dependencies:
    `npm install`
