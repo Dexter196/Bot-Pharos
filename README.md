@@ -1,6 +1,6 @@
 # Bot Pharos – Testnet Utility
 
-A fully automated script tailored for the Pharos Testnet, capable of performing token swaps, PHRS transfers, faucet claims, and daily check-ins — optimized for maximizing potential airdrop rewards.
+A fully automated script tailored for the Pharos Testnet, capable of performing token swaps, PHRS transfers, faucet claims, and daily check-ins.
 
 ## Features 🌟
 
