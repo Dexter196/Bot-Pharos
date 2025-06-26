@@ -36,8 +36,5 @@ A fully automated script tailored for the Pharos Testnet, capable of performing 
    socks5://user:pass@ip:port
 
 ## How To Use🚀
-- run the bot with:
-```bash
-node index.js
-
-
+   ```bash
+   node index.js
